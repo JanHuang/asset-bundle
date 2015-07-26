@@ -21,6 +21,11 @@
             "": "src"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "master": "0.1.x-dev"
+        }
+    },
     "scripts": {
         "post-update-cmd": "Module\\Module::init",
         "post-install-cmd": "Module\\Module::init",
