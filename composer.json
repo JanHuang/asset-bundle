@@ -1,5 +1,5 @@
 {
-    "name": "fastd/asset-module",
+    "name": "fastd/asset-bundle",
     "description": "Fastd media module.",
     "type": "library",
     "license": "MIT",
